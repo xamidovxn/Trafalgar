@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "Trafalgar",
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\practiseDiv"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Trafalgar"
+	}
+}

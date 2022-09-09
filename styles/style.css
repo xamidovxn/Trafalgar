@@ -1,0 +1,542 @@
+* {
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+   text-decoration: none;
+   list-style-type: none;
+}
+
+
+.container {
+   padding: 0 60px;
+   width: 1120px;
+   margin: 0 auto;
+}
+
+.header-inner {
+   display: flex;
+   justify-content: space-between;
+   margin-top: 50px;
+   margin-bottom: 173px;
+}
+
+.li-style {
+   display: flex;
+   margin-left: 50px;
+}
+
+.ul-style {
+   display: flex;
+}
+
+.virtual-title {
+   height: 130px;
+   width: 200px;
+   margin-bottom: -45px;
+}
+
+.virtual-p {
+   height: 96px;
+   width: 400px;
+   margin-bottom: -20px;
+}
+
+.consult-link {
+   padding: 20px 30px;
+   border-radius: 30px;
+   border: none;
+   color: white;
+   background-color: #458FF6;
+}
+
+.inline {
+   display: inline-block;
+}
+
+.trafalgar-img {
+   margin-left: 80px;
+   width: 500px;
+   margin-top: -100px;
+}
+
+.vertual {
+   margin-top: 100px;
+   display: flex;
+}
+
+.service-title {
+   text-align: center;
+   margin-top: 30px;
+   margin-bottom: 26px;
+}
+
+.service-hr {
+   width: 56px;
+   height: 2px;
+   background-color: black;
+   border: none;
+   margin-left: 475px;
+   margin-top: 15px;
+}
+
+.service-p {
+   font-weight: 300px;
+   font-size: 18px;
+   line-height: 30px;
+   margin-top: 15px;
+   text-align: center;
+}
+
+.lupa-logo {
+   width: 110px;
+   height: 120px;
+}
+
+.lupa-title {
+   margin-top: 20px;
+   height: 56px;
+   width: 160px;
+}
+
+.card-first {
+   width: 310px;
+   height: 320px;
+   border-radius: 20px;
+   margin-left: 10px;
+   margin-top: 50px;
+   padding-top: 30px;
+   padding-left: 30px;
+   box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+}
+
+.section {
+   display: flex;
+   justify-content: space-between;
+}
+
+.group-logo {
+   width: 110px;
+   height: 120px;
+}
+
+.group-title {
+   margin-top: 20px;
+}
+
+.group-p {
+   margin-top: 30px;
+}
+
+.card-secend {
+   width: 310px;
+   height: 320px;
+   border-radius: 20px;
+   margin-left: 10px;
+   margin-top: 50px;
+   padding-top: 30px;
+   padding-left: 30px;
+   box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+}
+
+.vector-logo {
+   width: 110px;
+   height: 120px;
+}
+
+.vector-p {
+   margin-top: 10px;
+}
+
+.card {
+   display: flex;
+   flex-wrap: wrap;
+}
+
+.frame4-logo {
+   width: 110px;
+   height: 120px;
+}
+
+.frame4-title {
+   margin: 20px;
+}
+
+.frame4-p {
+   margin-left: 20px;
+}
+
+.frame3-logo {
+   width: 100px;
+   height: 120px;
+}
+
+.frame3-title {
+   margin-top: 20px;
+}
+
+.frame3-p {
+   margin-top: 25px;
+}
+
+.tracking-logo {
+   width: 100px;
+   height: 120px;
+}
+
+.tracking-title {
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+
+.btn {
+   display: flex;
+   padding: 20px 51px;
+   margin: 20px auto;
+   margin-top: 80px;
+   background-color: white;
+   border: 1px solid #458FF6;
+   color: #458FF6;
+   border-radius: 55px;
+   justify-content: center;
+}
+
+.trafalgar-second {
+   height: 477px;
+   width: 500px;
+   margin-top: 10px;
+}
+
+.wrapper {
+   display: flex;
+}
+
+.leading-div {
+   margin-top: 100px;
+}
+
+.leading-title {
+   height: 112px;
+   width: 200px;
+   margin-left: 180px;
+}
+
+.leading-hr {
+   margin-top: -30px;
+   margin-left: 180px;
+   width: 56px;
+   height: 2px;
+   border: none;
+   background-color: black;
+
+}
+
+.leading-p {
+   width: 250px;
+   margin-top: 30px;
+   margin-left: 180px;
+}
+
+.leading-btn {
+   padding: 20px 51px;
+   margin-top: 40px;
+   margin-left: 180px;
+   background-color: #ffffff;
+   border: 1px solid #458FF6;
+   color: #458FF6;
+   border-radius: 55px;
+}
+
+.wrapper {
+   display: flex;
+}
+
+.download-div {
+   margin-top: 70px;
+}
+
+.download-img {
+   width: 500px;
+   margin-left: 250px;
+   margin-top: 100px;
+
+}
+
+.download-title {
+   width: 200px;
+   margin-top: 30px;
+}
+
+.donwload-hr {
+   width: 56px;
+   height: 2px;
+   margin-top: 40px;
+   margin-bottom: 40px;
+   border: none;
+   background-color: black;
+}
+
+.download-p {
+   width: 290px;
+}
+
+.download-btn {
+   padding: 20px 51px;
+   background-color: white;
+   border: 1px solid #458FF6;
+   color: #458FF6;
+   border-radius: 55px;
+   margin-top: 30px;
+}
+
+.download-pointer {
+   width: 8px;
+   margin-left: 10px;
+}
+
+.wrapper-blue {
+   width: 1000px;
+   height: 425px;
+   margin-top: 200px;
+   color: #FFFFFF;
+   background-color: #67C3F3;
+   padding-top: 30px;
+   padding-left: 350px;
+   border-radius: 24px
+}
+
+.wrapper-blue-hr {
+   width: 56px;
+   height: 2px;
+   margin-top: 40px;
+   margin-left: 130px;
+   border: none;
+   background-color: #FFFFFF;
+}
+
+.wrapper-blue-img {
+   margin-left: -250px;
+   margin-top: 100px;
+   border-bottom-right-radius: 70px;
+   border-bottom-left-radius: 70px;
+   border-top-right-radius: 70px;
+   border-top-left-radius: 70px;
+   border: solid 3px #FFFFFF
+}
+
+.wrapper-blue-name {
+   margin-top: -95px;
+   margin-left: -40px;
+}
+
+.wrapper-blue-founder {
+   margin-top: 10px;
+   margin-left: -40px;
+}
+
+.wrapper-blue-p {
+   width: 300px;
+   margin-left: 250px;
+   margin-top: -60px;
+}
+
+.pointer {
+   margin: 30px;
+   margin-left: 300px;
+}
+
+.pointerleft {
+   padding-right: 100px;
+}
+
+.ellipse {
+   padding-right: 18px;
+}
+
+.pointerright {
+   padding-left: 100px;
+}
+
+.check {
+   margin: 250px;
+}
+
+.check-title {
+   margin-left: 75px;
+   font-size: 30px;
+}
+
+.check-hr {
+   width: 56px;
+   height: 2px;
+   border: none;
+   margin-top: 20px;
+   margin-left: 220px;
+   background-color: black;
+}
+
+.check-card {
+   height: 512px;
+   width: 350px;
+   margin-top: -200px;
+   border-radius: 20px;
+   box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+}
+
+.check-img {
+   border-top-left-radius: 20px;
+   border-top-right-radius: 20px;
+
+}
+
+.check-h {
+   height: 64px;
+   padding: 20px 30px;
+}
+
+.check-p {
+   padding: 20px 30px;
+}
+
+.link {
+   margin-left: 30px;
+   color: #458FF6;
+}
+
+.read-pointer {
+   margin-left: 8px;
+   width: 15px;
+}
+
+.herbal-card {
+   height: 512px;
+   width: 350px;
+   margin-top: -512px;
+   margin-left: 300px;
+   border-radius: 20px;
+   box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+}
+
+.herbal-img {
+   border-top-left-radius: 20px;
+   border-top-right-radius: 20px;
+
+}
+
+.herbal-title {
+   height: 64px;
+   padding: 20px 30px;
+}
+
+.herbal-p {
+   padding: 20px 30px;
+}
+
+
+.natural-card {
+   height: 512px;
+   width: 350px;
+   margin-top: -512px;
+   margin-left: 600px;
+   border-radius: 20px;
+   box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+}
+
+.natural-img {
+   border-top-left-radius: 20px;
+   border-top-right-radius: 20px;
+
+}
+
+.natural-title {
+   height: 64px;
+   padding: 20px 30px;
+}
+
+.natural-p {
+   padding: 20px 30px;
+}
+
+.view-btn {
+   width: 200px;
+   height: 56px;
+   margin-top: 50px;
+   margin-left: 300px;
+   color: #458FF6;
+   border: none;
+   background-color: #ffffff;
+   border: 2px solid #458FF6;
+   border-radius: 20px;
+}
+
+.footer-logo {
+   color: white;
+}
+
+.footer-wrapper {
+   width: 1000px;
+   height: 430px;
+   margin-left: 30px;
+   margin-top: 200px;
+   border-radius: 20px;
+   background-color: #67C3F3;
+   display: flex;
+}
+
+.footer-card {
+   margin-top: 120px;
+   margin-left: 60px;
+   width: 400px;
+   height: 400px;
+}
+
+
+.footer-title {
+   width: 220px;
+   margin-top: 20px;
+   color: white;
+
+}
+
+.footer-p {
+   margin-top: 30px;
+   color: white;
+}
+
+.company-div {
+   width: 120px;
+   height: 200px;
+   margin-top: 130px;
+   margin-left: 50px;
+}
+
+.company-h {
+   color: white;
+}
+
+.company-link {
+   color: white;
+   padding-top: 25px;
+}
+
+.company-li {
+   margin-top: 25px;
+}
+
+.region-div {
+   width: 120px;
+   height: 200px;
+   margin-top: 130px;
+   margin-left: 50px;
+}
+
+.region-h {
+   color: white;
+}
+
+.region-link {
+   color: white;
+}
+
+.region-li {
+   margin-top: 25px;
+}
